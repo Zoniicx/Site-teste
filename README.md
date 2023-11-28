@@ -27,7 +27,7 @@
         <a href="https://www.Google.com">Google</a>
         <br />
         
-        <!-- 6- Abrir link em nova aba -->
+        <!-- 6- Abrir link nova aba -->
         <a href="https://www.Google.com" target="_blank">Google aba nova</a>
 
         <!-- 7- imagem -->
