@@ -35,5 +35,13 @@
 
         <!-- 8- atributos alt -->
         <img src="img/6BnJ.gif" alt="gato impressionado">
+
+        <!-- 9- Listas nao ordenadas -->
+        <ul>
+            <li>Fogao</li>
+            <li>Geladeira</li>
+            <li>Armario</li>
+            <li>Mesa</li>
+        </ul>
     </body>
 </html>
